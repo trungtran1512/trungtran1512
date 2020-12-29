@@ -1,5 +1,5 @@
 ## Hi there 👋 My name's [TRAN HUU TRUNG](https://github.com/trantrung1512) 🙋‍♂️
- **✨ trung-th-neo-lab ✨**
+ **✨ trung tran huu ✨**
 ##
 - 🔭 I’m currently working on **RUBY ON RAILS**
 - 🌱 I’m currently learning **GOLANG**

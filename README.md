@@ -32,4 +32,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trungpro152224&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungpro152224&layout=compact&theme=tokyonight)](https://github.com/trungpro152224)
 
-
+<img alt="Ruby" align="left" style="margin-right:15px" src="https://design-image.s3-us-west-2.amazonaws.com/upload/Th%C6%A1.png" />

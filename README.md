@@ -1,4 +1,4 @@
-## Hi there 👋 My name's [TRAN HUU TRUNG](https://github.com/trantrung1512) 🙋‍♂️
+## Hi there 👋 My name's [TRAN HUU TRUNG](https://github.com/trungpro152224) 🙋‍♂️
  **✨ trung tran huu ✨**
 ##
 - 🔭 I’m currently working on **RUBY ON RAILS**

@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Facebook - @trantrung1512](https://www.facebook.com/trantrung1512), [Gmail - @trung151224](mailto:trungpro151224@gmail.com)
 - ⚡ Fun fact: Go one more...!!!
 
-## Connect with me
+## Connect with Me
 <a href="https://twitter.com/trung151224">
   <img alt="twitter-trung151224 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
 </a>
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trungpro152224&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungpro152224&layout=compact&theme=tokyonight)](https://github.com/trungpro152224)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trungpro152224&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungpro152224&layout=compact&theme=tokyonight)](https://github.com/trungpro152224) -->
 
 <img alt="Ruby" align="left" style="margin-right:15px" src="https://design-image.s3-us-west-2.amazonaws.com/upload/Th%C6%A1.png" />

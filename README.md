@@ -1,5 +1,7 @@
-## Hi there 👋 My name's [TRAN HUU TRUNG](https://github.com/trungpro152224) 🙋‍♂️
- **✨ trung tran huu ✨**
+## Hi There ️🎊 My name's [TRAN HUU TRUNG](https://github.com/trungpro152224) ♨️
+ **✨ Trần Hữu Trung ✨**
+ 
+ [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://webuild.community)
 ##
 - 🔭 I’m currently working on **RUBY ON RAILS**
 - 🌱 I’m currently learning **GOLANG**
@@ -7,7 +9,7 @@
 - 📫 How to reach me: [Facebook - @trantrung1512](https://www.facebook.com/trantrung1512), [Gmail - @trung151224](mailto:trungpro151224@gmail.com)
 - ⚡ Fun fact: Go one more...!!!
 
-## Connect with Me
+## Connect With Me
 <a href="https://twitter.com/trung151224">
   <img alt="twitter-trung151224 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
 </a>

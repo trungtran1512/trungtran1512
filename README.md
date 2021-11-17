@@ -1,4 +1,4 @@
-## Hi There ️🎊 My name's [TRAN HUU TRUNG](https://github.com/trungpro152224) ♨️
+## Hi There ️🎊 My name's [TRAN HUU TRUNG](https://github.com/trungpro152224) 🔰
  **✨ Trần Hữu Trung ✨**
  
  [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://webuild.community)

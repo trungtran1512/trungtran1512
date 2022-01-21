@@ -1,4 +1,5 @@
-## Hi There ️🎊 My name's [TRAN HUU TRUNG](https://github.com/trungpro152224) 🔰
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&lines=Hi+there+%F0%9F%91%8B+My+name's+TRAN+HUU+TRUNG+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F)](https://github.com/trung-th-neo-lab)
+
  **✨ Trần Hữu Trung ✨**
  
  [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://webuild.community)

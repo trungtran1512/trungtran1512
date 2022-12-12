@@ -5,9 +5,7 @@
  [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://webuild.community)
 ##
 - 🔭 I’m currently working on **RUBY ON RAILS**
-- 🌱 I’m currently learning **GOLANG**
-- 💬 Bio: Work hard - Play hard
-- 📫 How to reach me: [Facebook - @trantrung1512](https://www.facebook.com/trantrung1512), [Gmail - @trung151224](mailto:trungpro151224@gmail.com)
+- 📫 How to reach me: [Facebook - @trantrung1512](https://www.facebook.com/trantrung1512)
 - ⚡ Fun fact: Go one more...!!!
 
 ## Connect With Me
@@ -41,7 +39,6 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br />

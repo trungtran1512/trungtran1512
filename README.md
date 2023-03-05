@@ -4,20 +4,8 @@
  
  [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://webuild.community)
 ##
-- 🔭 I’m currently working on **RUBY ON RAILS**
+🔭 I’m currently working on **RUBY ON RAILS**
 <!-- - 📫 How to reach me: [Facebook - @trantrung1512](https://www.facebook.com/trantrung1512) -->
-- ⚡ Fun fact: Go one more...!!!
-
-## Connect With Me
-<a href="https://twitter.com/trung151224">
-  <img alt="twitter-trung151224 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
-</a>
-<a href="https://gitlab.com/trung.th">
-  <img alt="gitlab-trung.th | Gitlab" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
-</a>
-
-<br />
-<br />
 
 ## Languages and Tools
 

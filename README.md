@@ -9,6 +9,7 @@
 
 ## Languages and Tools
 
+
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
@@ -29,9 +30,5 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br />
-
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=trungpro152224&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungpro152224&layout=compact&theme=tokyonight)](https://github.com/trungpro152224) -->
-
-<img alt="Ruby" align="left" style="margin-right:15px" src="https://design-image.s3-us-west-2.amazonaws.com/upload/Th%C6%A1.png" />

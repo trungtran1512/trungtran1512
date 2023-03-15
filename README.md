@@ -3,12 +3,12 @@
  **✨ Trần Hữu Trung ✨**
  
  [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made-modern.svg)](https://webuild.community)
+ 
+ 🔭 I’m currently working on **RUBY ON RAILS**
+ 
 ##
-🔭 I’m currently working on **RUBY ON RAILS**
-<!-- - 📫 How to reach me: [Facebook - @trantrung1512](https://www.facebook.com/trantrung1512) -->
 
 ## Languages and Tools
-
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
